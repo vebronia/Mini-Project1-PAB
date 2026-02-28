@@ -31,7 +31,7 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 
 <div align="center">
   
-  <img width="1918" height="878" alt="image" src="https://github.com/user-attachments/assets/9517f37e-c2ce-45f8-99c5-deb21c4f7195" />
+  <img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/bfb11698-4cae-4d75-9a08-f78a6f68e77e" />
 
  <p align="center">
   <b><em>Halaman Utama</em></b><br>
