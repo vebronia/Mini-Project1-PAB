@@ -1,5 +1,5 @@
 # Mini-Project1-PAB  
-# Dream Travel
+# Dream Travel✈️
 
 | Nama                  | NIM         | Kelas             |
 |-----------------------|------------|------------------|
