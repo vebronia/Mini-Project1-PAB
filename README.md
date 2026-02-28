@@ -190,21 +190,8 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 </details>
 
 <details>
-<summary><b>8. Notifikasi Aksi (SnackBar)</b></summary>
-<br>
 
-<div align="center">
-  <img width="400" alt="SnackBar Notifikasi" src="screenshots/snackbar.png" />
-  <p align="center">
-    <b><em>Notifikasi Aksi</em></b><br>
-    Menampilkan SnackBar ketika menambahkan atau menghapus destinasi sebagai feedback.
-  </p>
-</div>
-
-</details>
-
-<details>
-<summary><b>9. State Management</b></summary>
+<summary><b>8. State Management</b></summary>
 <br>
 
 <div align="center">
@@ -238,10 +225,4 @@ mini_project1_pab/
 │  │  ├─ home_page.dart
 │  │  ├─ add_page.dart
 │  │  └─ detail_page.dart
-│
-├─ assets/
-│  ├─ images/
-│  └─ screenshots/
-│
-├─ pubspec.yaml
-└─ README.md
+
