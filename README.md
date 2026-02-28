@@ -1,14 +1,15 @@
-# Mini-Project1-PAB
+# Mini-Project1-PAB  
 # Dream Travel
 
-| Nama                      | NIM           | Kelas             |
-|---------------------------|---------------|-------------------|
-|  Vebronia vitania Lusi    | 2409116112    | Sistem Informasi C|
+| Nama                  | NIM         | Kelas             |
+|-----------------------|------------|------------------|
+| Vebronia Vitania Lusi | 2409116112 | Sistem Informasi C |
 
+---
 
 ## Deskripsi Aplikasi
 
-Aplikasi **Dream Travel** adalah aplikasi berbasis **Flutter** yang digunakan untuk mengelola destinasi impian pengguna.  
+Aplikasi **Dream Travel** adalah aplikasi berbasis **Flutter** untuk mengelola destinasi impian pengguna.  
 Pengguna dapat **menambahkan**, **mengedit**, dan **menghapus** destinasi secara dinamis.
 
 Setiap destinasi memiliki:
@@ -16,10 +17,10 @@ Setiap destinasi memiliki:
 - Lokasi
 - Budget
 - Catatan
+- Kategori (Pantai, Gunung, Kota)
 
 Data yang dimasukkan langsung muncul di halaman utama menggunakan **State Management** dengan **StatefulWidget** dan **setState()**.  
-
-Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI** secara real-time.
+Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara real-time.
 
 ---
 
@@ -30,12 +31,12 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 <br>
 
 <div align="center">
-  
-  <img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/bfb11698-4cae-4d75-9a08-f78a6f68e77e" />
+  <img width="1919" height="878" alt="Halaman Utama" src="screenshots/home_page.png" />
+</div>
 
- <p align="center">
+<p align="center">
   <b><em>Halaman Utama</em></b><br>
-  Menampilkan daftar destinasi yang telah ditambahkan. Jika kosong, muncul pesan <b>"Belum ada destinasi"</b>.<br>
+  Menampilkan daftar destinasi yang telah ditambahkan. Jika kosong, muncul pesan <b>"Belum ada destinasi"</b>.
 </p>
 
 <div align="left">
@@ -54,13 +55,12 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 <br>
 
 <div align="center">
-  
-  <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/310067c2-64c2-4839-a6c3-1a452c5fd519" />
-  
-<div align="center">
-  <b><em>Menambahkan Destinasi Baru</em></b><br>
-  Form menampilkan field:
+  <img width="1919" height="882" alt="Menambahkan Destinasi Baru" src="screenshots/add_page.png" />
 </div>
+
+<p align="center">
+  <b><em>Menambahkan Destinasi Baru</em></b>
+</p>
 
 <div align="left">
   <ul>
@@ -68,12 +68,14 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
     <li>Lokasi</li>
     <li>Budget</li>
     <li>Catatan</li>
+    <li>Kategori Destinasi (Pantai, Gunung, Kota)</li>
   </ul>
 </div>
 
-<div align="center">
+<p align="center">
   Tombol <b>Simpan</b> berwarna merah untuk menambah destinasi baru.
-</div>
+</p>
+
 </details>
 
 <details>
@@ -81,31 +83,54 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 <br>
 
 <div align="center">
-  
-  <img width="411" height="883" alt="Screenshot 2026-02-28 131844" src="https://github.com/user-attachments/assets/43174227-b5f1-4591-8b99-3a43c648822f" />
-
- <div align="center">
-  <b><em>Daftar Destinasi</em></b><br>
-  Setiap card menampilkan:
+  <img width="411" height="883" alt="Daftar Destinasi" src="screenshots/list_page.png" />
 </div>
+
+<p align="center">
+  <b><em>Daftar Destinasi</em></b>
+</p>
 
 <div align="left">
   <ul>
     <li>Nama Destinasi</li>
     <li>Lokasi</li>
     <li>Budget</li>
-     <li>Catatan</li>
+    <li>Catatan</li>
+    <li>Kategori Destinasi</li>
   </ul>
 </div>
 
-<div align="center">
+<p align="center">
   Data muncul secara dinamis setelah ditambahkan.
+</p>
+
+</details>
+
+<details>
+<summary><b>4. Kategori Destinasi</b></summary>
+<br>
+
+<div align="center">
+  <img width="600" alt="Kategori Destinasi" src="screenshots/category_page.png" />
+</div>
+
+<p align="center">
+  <b><em>Kategori Destinasi</em></b><br>
+  Pengguna dapat memilih kategori destinasi: <b>Pantai</b>, <b>Gunung</b>, atau <b>Kota</b>.
+</p>
+
+<div align="left">
+  <ul>
+    <li><b>Pantai:</b> Destinasi berhubungan dengan pantai, laut, atau pulau.</li>
+    <li><b>Gunung:</b> Destinasi berhubungan dengan pendakian, gunung, dan alam pegunungan.</li>
+    <li><b>Kota:</b> Destinasi di kota, tempat wisata perkotaan, atau landmark terkenal.</li>
+  </ul>
 </div>
 
 </details>
 
 <details>
-<summary><b>4. Empty State (Belum Ada Destinasi)</b></summary>
+<summary><b>5. Empty State (Belum Ada Destinasi)</b></summary>
 <br>
 
 <div align="center">
@@ -119,14 +144,14 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 </details>
 
 <details>
-<summary><b>5. Mengedit Destinasi</b></summary>
+<summary><b>6. Mengedit Destinasi</b></summary>
 <br>
 
 <div align="center">
   <img width="400" alt="Edit Destinasi" src="screenshots/edit_page.png" />
   <p align="center">
     <b><em>Edit Destinasi</em></b><br>
-    Tombol edit tersedia di setiap card.  
+    Tombol edit tersedia di setiap card.<br>
     Setelah perubahan disimpan, data langsung diperbarui di halaman utama.
   </p>
 </div>
@@ -134,14 +159,14 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 </details>
 
 <details>
-<summary><b>6. Menghapus Destinasi dengan Konfirmasi</b></summary>
+<summary><b>7. Menghapus Destinasi dengan Konfirmasi</b></summary>
 <br>
 
 <div align="center">
   <img width="400" alt="Hapus Destinasi" src="screenshots/delete_dialog.png" />
   <p align="center">
     <b><em>Hapus Destinasi</em></b><br>
-    Terdapat tombol hapus di setiap card.  
+    Tombol hapus tersedia di setiap card.<br>
     Dialog konfirmasi muncul sebelum penghapusan permanen.
   </p>
 </div>
@@ -149,7 +174,7 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 </details>
 
 <details>
-<summary><b>7. Notifikasi Aksi (SnackBar)</b></summary>
+<summary><b>8. Notifikasi Aksi (SnackBar)</b></summary>
 <br>
 
 <div align="center">
@@ -163,7 +188,7 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 </details>
 
 <details>
-<summary><b>8. State Management</b></summary>
+<summary><b>9. State Management</b></summary>
 <br>
 
 <div align="center">
@@ -185,3 +210,22 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 ---
 
 ## Struktur Folder
+
+```text
+mini_project1_pab/
+│
+├─ lib/
+│  ├─ main.dart
+│  ├─ models/
+│  │  └─ destination.dart
+│  ├─ pages/
+│  │  ├─ home_page.dart
+│  │  ├─ add_page.dart
+│  │  └─ detail_page.dart
+│
+├─ assets/
+│  ├─ images/
+│  └─ screenshots/
+│
+├─ pubspec.yaml
+└─ README.md
