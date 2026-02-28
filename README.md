@@ -33,16 +33,18 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
   
   <img width="1918" height="878" alt="image" src="https://github.com/user-attachments/assets/9517f37e-c2ce-45f8-99c5-deb21c4f7195" />
 
-  <p align="center">
-    <b><em>Halaman Utama</em></b><br>
-    Menampilkan daftar destinasi yang telah ditambahkan. Jika kosong, muncul pesan <b>"Belum ada destinasi"</b>.<br>
-    Komponen utama:
-    <ul>
-      <li>Banner aplikasi</li>
-      <li>Judul aplikasi di bagian atas</li>
-      <li><b>FloatingActionButton (+)</b> untuk menambahkan destinasi</li>
-    </ul>
-  </p>
+ <p align="center">
+  <b><em>Halaman Utama</em></b><br>
+  Menampilkan daftar destinasi yang telah ditambahkan. Jika kosong, muncul pesan <b>"Belum ada destinasi"</b>.<br>
+</p>
+
+<div align="left">
+  <b>Komponen utama:</b>
+  <ul>
+    <li>Banner aplikasi</li>
+    <li>Judul aplikasi di bagian atas</li>
+    <li><b>FloatingActionButton (+)</b> untuk menambahkan destinasi</li>
+  </ul>
 </div>
 
 </details>
