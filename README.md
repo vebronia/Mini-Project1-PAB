@@ -54,20 +54,27 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 <br>
 
 <div align="center">
-  <img width="400" alt="Tambah Destinasi" src="screenshots/add_page.png" />
-  <p align="center">
-    <b><em>Menambahkan Destinasi Baru</em></b><br>
-    Form menampilkan field:
-    <ul>
-      <li>Nama Destinasi</li>
-      <li>Lokasi</li>
-      <li>Budget</li>
-      <li>Catatan</li>
-    </ul>
-    Tombol <b>Simpan</b> berwarna merah untuk menambah destinasi baru.
-  </p>
+  
+  <img width="1918" height="878" alt="Screenshot 2026-02-28 130305" src="https://github.com/user-attachments/assets/0575140f-4dc8-4f4c-a5e3-1bab67430782" />
+
+  
+<div align="center">
+  <b><em>Menambahkan Destinasi Baru</em></b><br>
+  Form menampilkan field:
 </div>
 
+<div align="left">
+  <ul>
+    <li>Nama Destinasi</li>
+    <li>Lokasi</li>
+    <li>Budget</li>
+    <li>Catatan</li>
+  </ul>
+</div>
+
+<div align="center">
+  Tombol <b>Simpan</b> berwarna merah untuk menambah destinasi baru.
+</div>
 </details>
 
 <details>
