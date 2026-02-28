@@ -94,6 +94,7 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
     <li>Nama Destinasi</li>
     <li>Lokasi</li>
     <li>Budget</li>
+     <li>Catatan</li>
   </ul>
 </div>
 
