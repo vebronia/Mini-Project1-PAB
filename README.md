@@ -55,8 +55,7 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 
 <div align="center">
   
-  <img width="1918" height="878" alt="Screenshot 2026-02-28 130305" src="https://github.com/user-attachments/assets/0575140f-4dc8-4f4c-a5e3-1bab67430782" />
-
+  <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/310067c2-64c2-4839-a6c3-1a452c5fd519" />
   
 <div align="center">
   <b><em>Menambahkan Destinasi Baru</em></b><br>
