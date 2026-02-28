@@ -31,7 +31,9 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <br>
 
 <div align="center">
-  <img width="1919" height="878" alt="Halaman Utama" src="screenshots/home_page.png" />
+  
+  <img width="1919" height="878" alt="Screenshot 2026-02-28 130643" src="https://github.com/user-attachments/assets/88a2093d-9560-43dc-acbf-6a79953746b6" />
+
 </div>
 
 <p align="center">
@@ -55,9 +57,10 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <br>
 
 <div align="center">
-  <img width="1919" height="882" alt="Menambahkan Destinasi Baru" src="screenshots/add_page.png" />
-</div>
+  
+<img width="1919" height="882" alt="Screenshot 2026-02-28 131530" src="https://github.com/user-attachments/assets/066cf077-06f6-41cc-a9e4-8dac6ad2dbae" />
 
+</div>
 <p align="center">
   <b><em>Menambahkan Destinasi Baru</em></b>
 </p>
@@ -83,7 +86,9 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <br>
 
 <div align="center">
-  <img width="411" height="883" alt="Daftar Destinasi" src="screenshots/list_page.png" />
+  
+  <img width="411" height="883" alt="Screenshot 2026-02-28 131844" src="https://github.com/user-attachments/assets/0495c073-a814-4625-bb44-eeafe994a22f" />
+
 </div>
 
 <p align="center">
