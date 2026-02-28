@@ -87,7 +87,8 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 
 <div align="center">
   
-  <img width="411" height="883" alt="Screenshot 2026-02-28 131844" src="https://github.com/user-attachments/assets/0495c073-a814-4625-bb44-eeafe994a22f" />
+  <img width="411" height="883" alt="Screenshot 2026-02-28 131844" src="https://github.com/user-attachments/assets/3c3dc894-5e0d-4cf6-8825-e1537de15d42" />
+
 
 </div>
 
@@ -101,7 +102,6 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
     <li>Lokasi</li>
     <li>Budget</li>
     <li>Catatan</li>
-    <li>Kategori Destinasi</li>
   </ul>
 </div>
 
@@ -115,8 +115,11 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <summary><b>4. Kategori Destinasi</b></summary>
 <br>
 
-<div align="center">
-  <img width="600" alt="Kategori Destinasi" src="screenshots/category_page.png" />
+<div align="center">#
+  
+  <img width="1919" height="882" alt="Screenshot 2026-02-28 134132" src="https://github.com/user-attachments/assets/58b522d7-cd01-4591-a0be-60837a2f52f8" />
+
+  
 </div>
 
 <p align="center">
@@ -139,7 +142,10 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <br>
 
 <div align="center">
-  <img width="400" alt="Empty State" src="screenshots/empty_state.png" />
+  
+<img width="1919" height="878" alt="Screenshot 2026-02-28 130643" src="https://github.com/user-attachments/assets/3a9f88c9-f387-43f5-b8fa-0ec98109271c" />
+
+  
   <p align="center">
     <b><em>Empty State</em></b><br>
     Menampilkan pesan <b>"Belum ada destinasi"</b> jika daftar kosong.
@@ -153,7 +159,9 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <br>
 
 <div align="center">
-  <img width="400" alt="Edit Destinasi" src="screenshots/edit_page.png" />
+  
+<img width="1909" height="218" alt="image" src="https://github.com/user-attachments/assets/260c9555-50e5-4156-965d-1ea707cf2617" />
+
   <p align="center">
     <b><em>Edit Destinasi</em></b><br>
     Tombol edit tersedia di setiap card.<br>
@@ -168,7 +176,9 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
 <br>
 
 <div align="center">
-  <img width="400" alt="Hapus Destinasi" src="screenshots/delete_dialog.png" />
+  
+ <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/19ef9fe8-4320-494e-b34d-34f0b0ec187e" />
+  
   <p align="center">
     <b><em>Hapus Destinasi</em></b><br>
     Tombol hapus tersedia di setiap card.<br>
