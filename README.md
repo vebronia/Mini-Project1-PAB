@@ -81,17 +81,24 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 <br>
 
 <div align="center">
-  <img width="400" alt="Daftar Destinasi" src="screenshots/list_page.png" />
-  <p align="center">
-    <b><em>Daftar Destinasi</em></b><br>
-    Setiap card menampilkan:
-    <ul>
-      <li>Nama Destinasi</li>
-      <li>Lokasi</li>
-      <li>Budget</li>
-    </ul>
-    Data muncul secara dinamis setelah ditambahkan.
-  </p>
+  
+  <img width="411" height="883" alt="Screenshot 2026-02-28 131844" src="https://github.com/user-attachments/assets/43174227-b5f1-4591-8b99-3a43c648822f" />
+
+ <div align="center">
+  <b><em>Daftar Destinasi</em></b><br>
+  Setiap card menampilkan:
+</div>
+
+<div align="left">
+  <ul>
+    <li>Nama Destinasi</li>
+    <li>Lokasi</li>
+    <li>Budget</li>
+  </ul>
+</div>
+
+<div align="center">
+  Data muncul secara dinamis setelah ditambahkan.
 </div>
 
 </details>
