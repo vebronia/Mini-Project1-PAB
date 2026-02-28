@@ -30,7 +30,9 @@ Aplikasi ini dibuat untuk memahami cara kerja perubahan state dan pembaruan **UI
 <br>
 
 <div align="center">
-  <img width="400" alt="Halaman Utama" src="screenshots/home_page.png" />
+  
+  <img width="1918" height="878" alt="image" src="https://github.com/user-attachments/assets/9517f37e-c2ce-45f8-99c5-deb21c4f7195" />
+
   <p align="center">
     <b><em>Halaman Utama</em></b><br>
     Menampilkan daftar destinasi yang telah ditambahkan. Jika kosong, muncul pesan <b>"Belum ada destinasi"</b>.<br>
