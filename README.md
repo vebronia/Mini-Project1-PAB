@@ -1,16 +1,10 @@
 # Mini-Project1-PAB
+# Dream Travel
 
 | Nama                      | NIM           | Kelas             |
 |---------------------------|---------------|-------------------|
 |  Vebronia vitania Lusi    | 2409116112    | Sistem Informasi C|
 
-# Dream Travel
-
-| Nama | NIM | Kelas |
-|------|-----|-------|
-| Vitania Lusi | 2409116086 | Sistem Informasi C 2024 |
-
----
 
 ## Deskripsi Aplikasi
 
