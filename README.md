@@ -132,7 +132,7 @@ Aplikasi ini dibuat untuk memahami perubahan state dan pembaruan **UI** secara r
     <li><b>Pantai:</b> Destinasi berhubungan dengan pantai, laut, atau pulau.</li>
     <li><b>Gunung:</b> Destinasi berhubungan dengan pendakian, gunung, dan alam pegunungan.</li>
     <li><b>Kota:</b> Destinasi di kota, tempat wisata perkotaan, atau landmark terkenal.</li>
-     <li><b>Semua:</b> untuk menampilkan semua daftar .</li>
+     <li><b>Semua:</b> untuk menampilkan semua destinasi.</li>
   </ul>
 </div>
 
